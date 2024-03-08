@@ -6,3 +6,6 @@
 python3 result.py 〇〇.txt
 ```
 4. 〇〇.csvが完成
+
+# スペシャルサンクス
+- Chat GPT 3.5
